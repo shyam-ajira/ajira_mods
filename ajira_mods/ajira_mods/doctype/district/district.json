@@ -5,7 +5,8 @@
  "doctype": "DocType",
  "engine": "InnoDB",
  "field_order": [
-  "district_name"
+  "district_name",
+  "enable"
  ],
  "fields": [
   {
@@ -13,11 +14,17 @@
    "fieldtype": "Data",
    "label": "District Name",
    "unique": 1
+  },
+  {
+   "default": "0",
+   "fieldname": "enable",
+   "fieldtype": "Check",
+   "label": "Enable"
   }
  ],
  "index_web_pages_for_search": 1,
  "links": [],
- "modified": "2024-12-16 16:26:38.173293",
+ "modified": "2024-12-17 13:30:20.894333",
  "modified_by": "Administrator",
  "module": "Ajira Mods",
  "name": "District",
