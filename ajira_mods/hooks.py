@@ -242,3 +242,16 @@ app_license = "agpl-3.0"
 # 	"Logging DocType Name": 30  # days to retain logs
 # }
 
+fixtures = [
+    {
+        "doctype": "Client Script",
+        "filters": [["name", "in", [
+            "Calculation on B-K-D",
+            "Calculation on R-A-P-D",
+            "Select Field",
+            "Filter Municipality based on District"
+        ]]]
+    }
+]
+
+
