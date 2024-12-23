@@ -251,7 +251,11 @@ fixtures = [
             "Select Field",
             "Filter Municipality based on District"
         ]]]
+    },
+    {
+        "dt":"District",
+        "dt":"Municipality"
+
     }
 ]
-
 

@@ -37,10 +37,10 @@
   "doctype": "Client Script",
   "dt": "Lead",
   "enabled": 1,
-  "modified": "2024-12-19 16:51:29.735613",
+  "modified": "2024-12-23 11:11:46.656820",
   "module": "Ajira Mods",
   "name": "Calculation on R-A-P-D",
-  "script": "frappe.ui.form.on('Lead', {\n    // Trigger calculations when any field value changes\n    ropani(frm) {\n        frm.trigger('calculate_area');\n    },\n    aana(frm) {\n        frm.trigger('calculate_area');\n    },\n    paisa(frm) {\n        frm.trigger('calculate_area');\n    },\n    daam(frm) {\n        frm.trigger('calculate_area');\n    },\n    calculate_area(frm) {\n        // Get input values\n        let ropani = frm.doc.ropani || 0;\n        let aana = frm.doc.aana || 0;\n        let paisa = frm.doc.paisa || 0;\n        let daam = frm.doc.daam || 0;\n\n        // Calculate Daam from Ropani, Aana, Paisa, Daam\n        let total_daam = (ropani * 256) + (aana * 16) + (paisa * 4) + daam;\n\n        // Calculate Square Feet from Daam\n        let calculated_square_feet = (total_daam / 256) * 5476;\n\n        // Calculate Square Meter from Square Feet\n        let calculated_square_meter = calculated_square_feet / 10.7639;\n\n        // Set calculated values\n        frm.set_value('square_feet', calculated_square_feet.toFixed(2));\n        frm.set_value('square_meter', calculated_square_meter.toFixed(2));\n    }\n});",
+  "script": "frappe.ui.form.on('Lead', {\n    // Trigger calculations when any field value changes\n    ropani(frm) {\n        frm.trigger('calculate_area');\n    },\n    aana(frm) {\n        frm.trigger('calculate_area');\n    },\n    paisa(frm) {\n        frm.trigger('calculate_area');\n    },\n    daam(frm) {\n        frm.trigger('calculate_area');\n    },\n    calculate_area(frm) {\n        // Get input values\n        let ropani = frm.doc.ropani || 0;\n        let aana = frm.doc.aana || 0;\n        let paisa = frm.doc.paisa || 0;\n        let daam = frm.doc.daam || 0;\n\n        // Calculate total Daam\n        let total_daam = (ropani * 256) + (aana * 16) + (paisa * 4) + daam;\n\n        // Calculate Square Feet from Daam\n        let calculated_square_feet = total_daam * 21.39;\n\n        // Calculate Square Meter from Square Feet\n        let calculated_square_meter = calculated_square_feet / 10.7639;\n\n        // Set calculated values\n        frm.set_value('square_feet', calculated_square_feet.toFixed(2));\n        frm.set_value('square_meter', calculated_square_meter.toFixed(2));\n    }\n});\n",
   "view": "Form"
  }
 ]

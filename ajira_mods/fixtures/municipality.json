@@ -1,0 +1,218 @@
+[
+ {
+  "district": "Kathmandu",
+  "docstatus": 0,
+  "doctype": "Municipality",
+  "modified": "2024-12-16 16:47:40.676710",
+  "municipality": "Dakshinkali Municipality",
+  "name": "Dakshinkali Municipality"
+ },
+ {
+  "district": "Kathmandu",
+  "docstatus": 0,
+  "doctype": "Municipality",
+  "modified": "2024-12-16 16:47:53.633208",
+  "municipality": "Shankharapur Municipality",
+  "name": "Shankharapur Municipality"
+ },
+ {
+  "district": "Kathmandu",
+  "docstatus": 0,
+  "doctype": "Municipality",
+  "modified": "2024-12-16 16:48:05.666696",
+  "municipality": "Nagarjun Municipality",
+  "name": "Nagarjun Municipality"
+ },
+ {
+  "district": "Kathmandu",
+  "docstatus": 0,
+  "doctype": "Municipality",
+  "modified": "2024-12-16 16:48:20.106732",
+  "municipality": "Gokarneshwor Municipality",
+  "name": "Gokarneshwor Municipality"
+ },
+ {
+  "district": "Kathmandu",
+  "docstatus": 0,
+  "doctype": "Municipality",
+  "modified": "2024-12-16 16:48:35.047908",
+  "municipality": "Kathmandu Metropolitan City",
+  "name": "Kathmandu Metropolitan City"
+ },
+ {
+  "district": "Kathmandu",
+  "docstatus": 0,
+  "doctype": "Municipality",
+  "modified": "2024-12-16 16:48:46.353524",
+  "municipality": "Tarakeshwor Municipality",
+  "name": "Tarakeshwor Municipality"
+ },
+ {
+  "district": "Kathmandu",
+  "docstatus": 0,
+  "doctype": "Municipality",
+  "modified": "2024-12-16 16:50:38.234681",
+  "municipality": "Tokha Municipality",
+  "name": "Tokha Municipality"
+ },
+ {
+  "district": "Kathmandu",
+  "docstatus": 0,
+  "doctype": "Municipality",
+  "modified": "2024-12-16 16:50:57.447834",
+  "municipality": "Budhanilkantha Municipality",
+  "name": "Budhanilkantha Municipality"
+ },
+ {
+  "district": "Kathmandu",
+  "docstatus": 0,
+  "doctype": "Municipality",
+  "modified": "2024-12-16 16:51:06.818592",
+  "municipality": "Kageshwori Manohara Municipality",
+  "name": "Kageshwori Manohara Municipality"
+ },
+ {
+  "district": "Lalitpur",
+  "docstatus": 0,
+  "doctype": "Municipality",
+  "modified": "2024-12-16 16:52:04.989070",
+  "municipality": "Lalitpur Metropolitan City",
+  "name": "Lalitpur Metropolitan City"
+ },
+ {
+  "district": "Lalitpur",
+  "docstatus": 0,
+  "doctype": "Municipality",
+  "modified": "2024-12-16 16:52:22.042118",
+  "municipality": "Mahalaxmi Municipality",
+  "name": "Mahalaxmi Municipality"
+ },
+ {
+  "district": "Lalitpur",
+  "docstatus": 0,
+  "doctype": "Municipality",
+  "modified": "2024-12-16 16:52:33.855133",
+  "municipality": "Godawari Municipality",
+  "name": "Godawari Municipality"
+ },
+ {
+  "district": "Lalitpur",
+  "docstatus": 0,
+  "doctype": "Municipality",
+  "modified": "2024-12-17 10:19:21.025067",
+  "municipality": "Konjyoson Municipality",
+  "name": "Konjyoson Municipality"
+ },
+ {
+  "district": "Lalitpur",
+  "docstatus": 0,
+  "doctype": "Municipality",
+  "modified": "2024-12-17 10:20:17.754303",
+  "municipality": "Bagmati Municipality",
+  "name": "Bagmati Municipality"
+ },
+ {
+  "district": "Lalitpur",
+  "docstatus": 0,
+  "doctype": "Municipality",
+  "modified": "2024-12-17 10:21:13.463788",
+  "municipality": "Mahankal Municipality",
+  "name": "Mahankal Municipality"
+ },
+ {
+  "district": "Bhaktapur",
+  "docstatus": 0,
+  "doctype": "Municipality",
+  "modified": "2024-12-17 10:23:48.342623",
+  "municipality": "Changunarayan Municipality",
+  "name": "Changunarayan Municipality"
+ },
+ {
+  "district": "Bhaktapur",
+  "docstatus": 0,
+  "doctype": "Municipality",
+  "modified": "2024-12-17 10:24:54.795924",
+  "municipality": "Madhyapur Thimi Municipality",
+  "name": "Madhyapur Thimi Municipality"
+ },
+ {
+  "district": "Bhaktapur",
+  "docstatus": 0,
+  "doctype": "Municipality",
+  "modified": "2024-12-17 10:25:16.700068",
+  "municipality": "Suryabinayak Municipality",
+  "name": "Suryabinayak Municipality"
+ },
+ {
+  "district": "Chitwan",
+  "docstatus": 0,
+  "doctype": "Municipality",
+  "modified": "2024-12-17 10:26:53.506411",
+  "municipality": "Bharatpur Metropolitan City",
+  "name": "Bharatpur Metropolitan City"
+ },
+ {
+  "district": "Chitwan",
+  "docstatus": 0,
+  "doctype": "Municipality",
+  "modified": "2024-12-17 10:27:23.089146",
+  "municipality": "Kalika Municipality",
+  "name": "Kalika Municipality"
+ },
+ {
+  "district": "Chitwan",
+  "docstatus": 0,
+  "doctype": "Municipality",
+  "modified": "2024-12-17 10:27:52.908648",
+  "municipality": "Khairahani Municipality",
+  "name": "Khairahani Municipality"
+ },
+ {
+  "district": "Chitwan",
+  "docstatus": 0,
+  "doctype": "Municipality",
+  "modified": "2024-12-17 10:28:19.276730",
+  "municipality": "Madi Municipality",
+  "name": "Madi Municipality"
+ },
+ {
+  "district": "Chitwan",
+  "docstatus": 0,
+  "doctype": "Municipality",
+  "modified": "2024-12-17 10:28:40.315523",
+  "municipality": "Ratnanagar Municipality",
+  "name": "Ratnanagar Municipality"
+ },
+ {
+  "district": "Chitwan",
+  "docstatus": 0,
+  "doctype": "Municipality",
+  "modified": "2024-12-17 10:29:07.780568",
+  "municipality": "Rapti Municipality",
+  "name": "Rapti Municipality"
+ },
+ {
+  "district": "Chitwan",
+  "docstatus": 0,
+  "doctype": "Municipality",
+  "modified": "2024-12-17 10:29:58.849330",
+  "municipality": "Ichchhyakamana Municipality",
+  "name": "Ichchhyakamana Municipality"
+ },
+ {
+  "district": "Bhaktapur",
+  "docstatus": 0,
+  "doctype": "Municipality",
+  "modified": "2024-12-17 10:24:20.447194",
+  "municipality": "Bhaktapur Municipality",
+  "name": "Bhaktapur Municipality"
+ },
+ {
+  "district": "Kaski",
+  "docstatus": 0,
+  "doctype": "Municipality",
+  "modified": "2024-12-17 10:33:36.842660",
+  "municipality": "Pokhara Metropolitan",
+  "name": "Pokhara Metropolitan"
+ }
+]
