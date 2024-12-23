@@ -88,7 +88,7 @@ app_license = "agpl-3.0"
 # Uninstallation
 # ------------
 
-# before_uninstall = "ajira_mods.uninstall.before_uninstall"
+before_uninstall = "ajira_mods.uninstall.before_uninstall"
 # after_uninstall = "ajira_mods.uninstall.after_uninstall"
 
 # Integration Setup
@@ -241,6 +241,7 @@ app_license = "agpl-3.0"
 # default_log_clearing_doctypes = {
 # 	"Logging DocType Name": 30  # days to retain logs
 # }
+
 
 fixtures = [
     {
